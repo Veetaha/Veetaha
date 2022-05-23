@@ -1,0 +1,36 @@
+# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
+name: Metrics
+on:
+  # Schedule updates (each hour)
+  schedule: [{ cron: "0 0 * * *" }]
+  workflow_dispatch:
+  push: { branches: ["master"] }
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
+          user: Veetaha
+          template: classic
+          config_gemoji: yes # use additional non-unicode emoji
+          retries: 3
+          retries_delay: 300
+          use_prebuilt_image: yes # faster execution
+
+          # base
+          base: header, activity, metadata
+
+          # The languages plugin displays which programming languages you use the most across all your repositories.
+          plugin_languages: yes
+          plugin_languages_ignored: html, css, javascript               # List of languages to ignore
+          # plugin_languages_skipped: my-test-repo                       # List of repositories to skip
+          # plugin_languages_colors: "0:orange, javascript:#ff0000, ..." # Make most used languages orange and JavaScript red
+          plugin_languages_details: bytes-size, percentage             # Additionally display total bytes size and percentage
+          # plugin_languages_threshold: 2%                               # Hides all languages less than 2%
+
+          # The lines of code plugin displays the number of lines of code you have added and removed across all of your repositories.
+          plugin_lines: yes
