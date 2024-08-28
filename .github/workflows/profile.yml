@@ -9,7 +9,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      # Pinned to v3.23 just for extra security
+      # Pinned to v3.34 just for extra security
       - uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -23,7 +23,8 @@ jobs:
           use_prebuilt_image: yes # faster execution
 
           # base
-          base: header, activity, metadata
+          base: header, metadata
+          base_indepth: yes
 
           # The languages plugin displays which programming languages you use the most across all your repositories.
           plugin_languages: yes
