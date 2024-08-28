@@ -15,7 +15,7 @@
 # Social
 
 
-| [![logo-blog]][blog] [&ensp;**Blog**][blog] | [![logo-twitter]][twitter] [&ensp;**X (Twitter)**][twitter] | [![logo-reddit]][reddit] [&ensp;**Reddit**][reddit]
+| [![logo-blog]][blog] &ensp;[**Blog**][blog] | [![logo-twitter]][twitter] &ensp;[**X (Twitter)**][twitter] | [![logo-reddit]][reddit] &ensp;[**Reddit**][reddit]
 -- | -- | --
 
 ---
