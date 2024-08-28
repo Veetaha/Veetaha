@@ -23,7 +23,7 @@ jobs:
           use_prebuilt_image: yes # faster execution
 
           # base
-          base: header, metadata
+          base: header, activity, metadata
           base_indepth: yes
 
           # The languages plugin displays which programming languages you use the most across all your repositories.
