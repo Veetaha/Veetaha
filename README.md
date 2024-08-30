@@ -12,8 +12,6 @@
   </b>
 </p>
 
-![Views Counter](https://views-counter.vercel.app/badge?pageId=https%3A%2F%2Fgithub%2Ecom%2FVeetaha&leftColor=000000&rightColor=0adb3f&type=total&label=Viewers&style=none)
-
 # Social
 
 
@@ -22,7 +20,9 @@
 
 ---
 
-# GitHub Metrics
+# Metrics
+
+[![Vitalii Kryvenko profile views](https://u8views.com/api/v1/github/profiles/36276403/views/day-week-month-total-count.svg)](https://u8views.com/github/Veetaha)
 
 ![GitHub Metrics for Veetaha](./github-metrics.svg)
 
