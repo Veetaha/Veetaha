@@ -22,9 +22,9 @@
 
 # Metrics
 
-[![Vitalii Kryvenko profile views](https://u8views.com/api/v1/github/profiles/36276403/views/day-week-month-total-count.svg)](https://u8views.com/github/Veetaha)
-
 ![GitHub Metrics for Veetaha](./github-metrics.svg)
+
+[![Vitalii Kryvenko profile views](https://u8views.com/api/v1/github/profiles/36276403/views/day-week-month-total-count.svg)](https://u8views.com/github/Veetaha)
 
 [blog]: https://elastio.github.io/bon/blog
 [twitter]: https://x.com/veetaha
