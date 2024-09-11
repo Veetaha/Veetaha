@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Veetaha 👋!</h1>
 <h3 align="center">
-  Maintainer of the <a href="https://github.com/elastio/bon">Rust crate <code>bon</code></a>
+  Author and maintainer of the <a href="https://github.com/elastio/bon">Rust crate <code>bon</code></a>
 </h3>
 
 <p align="center">
