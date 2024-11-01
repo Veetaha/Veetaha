@@ -26,7 +26,7 @@
 
 [![Vitalii Kryvenko profile views](https://u8views.com/api/v1/github/profiles/36276403/views/day-week-month-total-count.svg)](https://u8views.com/github/Veetaha)
 
-[blog]: https://elastio.github.io/bon/blog
+[blog]: https://bon-rs.com/blog
 [twitter]: https://x.com/veetaha
 [reddit]: https://www.reddit.com/user/Veetaha/
 [logo-blog]: https://github.com/user-attachments/assets/4e84125c-9fec-4c10-ad51-a77652d14087
