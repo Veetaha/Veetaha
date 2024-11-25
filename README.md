@@ -20,6 +20,8 @@
 
 ---
 
+<a rel="me" href="https://mastodon.social/@Veetaha">Mastodon</a>
+
 # Metrics
 
 ![GitHub Metrics for Veetaha](./github-metrics.svg)
