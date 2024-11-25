@@ -20,7 +20,7 @@
 
 ---
 
-<a rel="me" href="https://mastodon.social/@Veetaha">Mastodon</a>
+<a rel="me" href="https://mastodon.social/@Veetaha"></a>
 
 # Metrics
 
