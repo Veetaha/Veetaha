@@ -18,8 +18,6 @@
 | [![logo-blog]][blog] &ensp;[**Blog**][blog] | [![logo-twitter]][twitter] &ensp;[**X (Twitter)**][twitter] | [![logo-reddit]][reddit] &ensp;[**Reddit**][reddit]
 -- | -- | --
 
----
-
 - <a rel="me" href="https://mastodon.social/@Veetaha">Mastodon</a>
 - <a rel="me" href="https://bsky.app/profile/veetaha.bsky.social">Bluesky</a>
 
