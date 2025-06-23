@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <b>Oh.. Maybe you'll also be interested in <a href="https://github.com/elastio/bon"><code>bon</code>?</a>
+  <b>Oh.. Maybe you'll also be interested in <a href="https://github.com/elastio/bon"><code>bon</code></a>?
   </b>
 </p>
 
