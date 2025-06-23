@@ -8,24 +8,26 @@
 </p>
 
 <p align="center">
-  <b>Oh.. Maybe you'll also be interested in <a href="https://github.com/elastio/bon">giving <code>bon</code> a star ⭐?</a>
+  <b>Oh.. Maybe you'll also be interested in <a href="https://github.com/elastio/bon"><code>bon</code>?</a>
   </b>
 </p>
 
-# Social
+## Social
 
 
 | [![logo-blog]][blog] &ensp;[**Blog**][blog] | [![logo-twitter]][twitter] &ensp;[**X (Twitter)**][twitter] | [![logo-reddit]][reddit] &ensp;[**Reddit**][reddit]
 -- | -- | --
 
-- <a rel="me" href="https://mastodon.social/@Veetaha">Mastodon</a>
-- <a rel="me" href="https://bsky.app/profile/veetaha.bsky.social">Bluesky</a>
+---
 
-# Metrics
+<details>
+<summary>Github Metrics</summary>
 
 ![GitHub Metrics for Veetaha](./github-metrics.svg)
 
 [![Vitalii Kryvenko profile views](https://u8views.com/api/v1/github/profiles/36276403/views/day-week-month-total-count.svg)](https://u8views.com/github/Veetaha)
+
+</details>
 
 [blog]: https://bon-rs.com/blog
 [twitter]: https://x.com/veetaha
