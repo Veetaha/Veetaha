@@ -3,15 +3,6 @@
   Author and maintainer of the <a href="https://github.com/elastio/bon">Rust crate <code>bon</code></a>
 </h3>
 
-<p align="center">
-  Are you interested in my profile? 🐱
-</p>
-
-<p align="center">
-  <b>Oh.. Maybe you'll also be interested in <a href="https://github.com/elastio/bon"><code>bon</code></a>?
-  </b>
-</p>
-
 ## Social
 
 
